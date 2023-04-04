@@ -1,5 +1,5 @@
 MANIFEST.in
-README.rst
+README.md
 setup.py
 grey_model/__init__.py
 grey_model/hello.py
