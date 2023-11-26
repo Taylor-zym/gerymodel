@@ -4,3 +4,4 @@
 '''
 
 from .win import window
+from .hello import main
