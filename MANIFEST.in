@@ -1,2 +1,4 @@
 include MANIFEST.in
-include grey_model/need/2.png
+include grey_model/need/*
+include grey_model/word/*
+include grey_model/word/ass/must/*
